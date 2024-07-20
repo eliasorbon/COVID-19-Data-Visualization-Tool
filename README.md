@@ -2,6 +2,8 @@
 
 This Python script fetches real-time COVID-19 data from a public API and creates a bar chart showing the top 10 countries by total cases. It also displays some basic statistics about the top 5 countries.
 
+![Covid Cases by Country](https://github.com/eliasorbon/COVID-19-Data-Visualization-Tool/blob/main/covid_cases_by_country.png)
+
 ## Features
 
 - Fetches real-time COVID-19 data from the disease.sh API
